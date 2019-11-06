@@ -1,0 +1,22 @@
+{
+  "name": "bs-fast-check",
+  "version": "0.1.0",
+  "description": "ReasonML binding for fast-testing property based testing library.",
+  "scripts": {
+    "build": "bsb -make-world",
+    "start": "bsb -make-world -w",
+    "clean": "bsb -clean-world"
+  },
+  "keywords": [
+    "BuckleScript"
+  ],
+  "author": {
+    "name": "Shikanime Deva",
+    "email": "deva.shikanime@protomail.com",
+    "url": "http://github.com/shikanime"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "bs-platform": "^5.2.1"
+  }
+}

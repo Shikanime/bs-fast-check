@@ -1,0 +1,11 @@
+*
+
+!/.gitignore
+!/package.json
+!/bsconfig.json
+!/README.md
+
+!/src/
+!/src/**/
+!/src/**/*.re
+!/src/**/*.rei
