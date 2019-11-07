@@ -9,3 +9,8 @@
 !/src/**/
 !/src/**/*.re
 !/src/**/*.rei
+
+!/__tests__/
+!/__tests__/**/
+!/__tests__/**/*.re
+!/__tests__/**/*.rei
