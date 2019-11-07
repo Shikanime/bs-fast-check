@@ -18,7 +18,7 @@
 
 [@bs.module "fast-check"] external maxSafeNat : unit => float = "maxSafeNat";
 
-[@bs.module "fast-check"] external float : unit => float = "float";
+[@bs.module "fast-check"] external float_ : unit => float = "float";
 
 /* external array : 'a -> [< 'a array partial] = "array" [@@bs.module "fast-check"] */
 [@bs.module "fast-check"] external set : unit => float = "set";
